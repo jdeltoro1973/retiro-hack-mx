@@ -21,7 +21,7 @@
 - Yosune Chamizo Alberro (@_yosune: [twitter](https://twitter.com/_Yosune), [github](http://github.com/yosune50))
 - Israel Zúñiga
 - Jorge Martínez
-- Juan José del Toro
+- Juan José Del Toro (@jdeltoro1973: [twitter](https://twitter.com/jdeltoro1973))
 - Hans Ramírez
 - Carlos Hugo Gonzalez Castell (@caarloshugo: [twitter](http://twitter.com/caarloshugo), [github](http://github.com/caarloshugo))
 - Ramón Valles Martínez (@mroutis: [github](http://github.com/mroutis))
